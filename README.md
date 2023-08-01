@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @llahdili
-- 👀 I’m interested in Developpment
-- 🌱 I’m currently learning React.
-- 🌱 I’m currently learning back-end developpement with spring boot and spring security
+- 👀 I’m a Back-end developer
+- 🌱 I’m currently learning Angular to improve my skills and become a fullStack.
+- 🌱 I’m currently learning back-end developpement with spring boot and spring security.
